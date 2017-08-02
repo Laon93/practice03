@@ -10,7 +10,7 @@ public class CalcMul {
 			this.b = b;
 		}
 		
-		public int add()
+		public int mul()
 		{
 			return a * b;
 		}

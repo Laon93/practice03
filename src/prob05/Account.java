@@ -32,5 +32,9 @@ public class Account {
 		balance = balance - money;
 		return balance;
 	}
+	
+	public Account(String accountNo) {
+		this.accountNo = accountNo;
+	}
 
 }

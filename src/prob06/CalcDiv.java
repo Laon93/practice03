@@ -10,7 +10,7 @@ public class CalcDiv {
 			this.b = b;
 		}
 		
-		public int add()
+		public int div()
 		{
 			return a / b;
 		}
