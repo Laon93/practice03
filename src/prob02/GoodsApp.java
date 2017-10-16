@@ -8,6 +8,7 @@ public class GoodsApp {
 
 		Scanner sc = new Scanner(System.in);
 		
+		
 		System.out.println("입력하실 데이터의 수를 입력하세요");
 		int count = sc.nextInt();
 

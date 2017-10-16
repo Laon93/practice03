@@ -11,7 +11,8 @@ public class Goods {
 		this.price = 0;
 		this.countStock = 0;
 		
-	}
+	} 
+	
 	
 	public String getName() {
 		return name;

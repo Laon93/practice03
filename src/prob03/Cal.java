@@ -8,6 +8,7 @@ public class Cal {
 		Scanner sc = new Scanner(System.in);
 		CurrencyConverter conv = new CurrencyConverter();
 
+		
 		while (true) {
 			System.out.println("환율을 입력하세요 : ");
 			conv.setRate(sc.nextDouble());

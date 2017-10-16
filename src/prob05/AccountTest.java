@@ -12,7 +12,6 @@ public class AccountTest {
 
 		account.deposit( 30 );
 		System.out.println( account.getAccountNo() + "계좌의 잔고는 " + account.getBalance() + "만원입니다." );
-
 	}
 
 }

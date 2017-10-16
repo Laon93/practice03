@@ -6,6 +6,7 @@ public class CurrencyConverter {
 	public static double toDollor(double won) {
 		double result = won / rate;
 		
+		
 		System.out.println("result : " + result);
 		return result;
 	}

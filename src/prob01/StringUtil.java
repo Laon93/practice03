@@ -1,7 +1,6 @@
 package prob01;
 
 public class StringUtil {
-
 	/*
 	 * 결과 문자열 : SuperManBatManSpiderMan
 	 * 
